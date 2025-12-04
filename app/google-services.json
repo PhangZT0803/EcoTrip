@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700314161162",
+    "project_id": "ecotrip-miniproject",
+    "storage_bucket": "ecotrip-miniproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700314161162:android:d1ddda01f4d1068a918ff3",
+        "android_client_info": {
+          "package_name": "com.user.ecotrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2500_p-jR-CZGMm7Kk0Ly0Mo4oBwTZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
