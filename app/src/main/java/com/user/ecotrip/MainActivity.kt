@@ -84,8 +84,7 @@ fun MainApp(onLogout: () -> Unit) {
         Surface(modifier = Modifier.padding(innerPadding)) {
             when (selectedTab) {
                 0 -> ChallengeScreen() // 显示挑战列表
-                1 -> FeedScreen()      // 显示社区动态
-                2 -> ProfileScreen(onLogout = onLogout) // 显示个人中心 (把退出功能传给它)
+                1 -> ProfileScreen(onLogout = onLogout) // 显示个人中心 (把退出功能传给它)
             }
         }
     }
